@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
+.contianer {
+    background-color:aquamarine
+}
+body {
+    font-family: 'Salsa';
+    background-color: antiquewhite;
+    font-size: large;
+}
+.navber-brand{
+    color: #e66ebe ;
+    font-weight: 100;
+    font-size: larger;
+} 
+.bg-body-tertiary {
+    background-color: aquamarine;
+}
+.myBtn{
+    color: darkgreen;
+}
+.style{
+    background-color: blue;
+}
